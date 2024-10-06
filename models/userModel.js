@@ -1,5 +1,7 @@
+const data = require('../data/users.json')
+
 // Array to hold all the users (acting as our "database")
-let users = [];
+let users = data || [];
 let userId = 1;
 
 // Function to create a new user and add them to our array

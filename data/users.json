@@ -1,1 +1,32 @@
-[]
+[
+    {
+        "id": 1,
+        "username": "llewelyn",
+        "password": "$2a$10$KxilvGmS5NFPg2LlHJ3r6OvpBBe/ds0EHv7vR4bMeuSZY8SFiKOSO",
+        "email": "llewelyn@gmail.com"
+    },
+    {
+        "id": 2,
+        "username": "llewelyn02",
+        "password": "password123",
+        "email": "llewelyn02@gmail.com"
+    },
+    {
+        "id": 3,
+        "username": "llewelyn03",
+        "password": "mysecurepassword",
+        "email": "llewelyn03@gmail.com"
+    },
+    {
+        "id": 4,
+        "username": "llewelyn04",
+        "password": "qwerty123",
+        "email": "llewelyn04@gmail.com"
+    },
+    {
+        "id": 5,
+        "username": "llewelyn05",
+        "password": "abc12345",
+        "email": "llewelyn05@gmail.com"
+    }
+]
